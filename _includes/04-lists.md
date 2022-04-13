@@ -1,3 +1,3 @@
-*skull the hero Slayer
-*Crosscode
-*undertale
+* skull the hero Slayer
+* Crosscode
+* undertale
