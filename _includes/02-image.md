@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of nothing](https://imgs.search.brave.com/pg-0fmSR9twYHUz8Srz-JQM8OFvlWf3i8jv4BcluKwg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZjL0JsYWNrX3Bo/b3RvLmpwZw)
